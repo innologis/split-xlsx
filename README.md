@@ -16,7 +16,7 @@ deactivate
 
 Store your file somewhere on your hard drive
 
-Investigate it to identify grouper column and its name
+Investigate it to identify groupper column and its name
 
 ### Launch
 
